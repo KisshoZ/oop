@@ -1,0 +1,11 @@
+# 忽略 CMake 构建目录
+build/
+
+# 忽略编译产物与可执行文件
+*.o
+*.obj
+*.exe
+app
+
+# 忽略 VS Code 本地个性化配置
+.vscode/
